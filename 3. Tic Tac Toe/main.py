@@ -34,6 +34,7 @@ def occupy_slot(player_slot, cellShape):
         print(slots)
 
 
+
 print("Welcome to Tic Tac Toe, developed by TahaLearns!")
 print("The slots will be filled by choosing the location from [0-8]")
 

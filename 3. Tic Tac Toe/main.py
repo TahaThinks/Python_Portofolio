@@ -60,3 +60,4 @@ while True:
     occupy_slot(player_slot2, cellY)
 
 
+

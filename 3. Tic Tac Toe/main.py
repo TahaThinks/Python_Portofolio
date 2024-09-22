@@ -19,6 +19,7 @@ def row_selection(player_slot, grid, cellShape):
 
 
 
+
 def row_change(row, player_slot, cellShape):
     if player_slot in [0, 3, 6]:
         row[0] = cellShape
